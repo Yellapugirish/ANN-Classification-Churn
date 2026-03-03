@@ -3,5 +3,4 @@ pandas
 numpy
 scikit-learn
 matplotlib
-streamlit
-keras
+streamlit==1.40.0
